@@ -1,0 +1,30 @@
+{
+  "rankings": [
+    {
+      "rank": 1,
+      "movement": 0,
+      "points": 9500,
+      "competitions_played": 18,
+      "competitor": {
+        "id": "sr:competitor:1",
+        "name": "John Doe / Max Power",
+        "country": "USA",
+        "country_code": "USA",
+        "abbreviation": "JDO/MPO"
+      }
+    },
+    {
+      "rank": 2,
+      "movement": 1,
+      "points": 8700,
+      "competitions_played": 20,
+      "competitor": {
+        "id": "sr:competitor:2",
+        "name": "Ivan Ace / Luka Smash",
+        "country": "Croatia",
+        "country_code": "CRO",
+        "abbreviation": "IAC/LSM"
+      }
+    }
+  ]
+}
